@@ -1,0 +1,7 @@
+{
+  "name": "Project J.A.R.V.I.S - Holographic HUD",
+  "description": "A Tony Stark inspired holographic interface featuring hand-controlled 3D Earth visualization and gesture-based UI interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
